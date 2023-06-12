@@ -216,7 +216,7 @@
     position: absolute;
     bottom: 100px;
     left: 50%;
-    transform: translate(-50, 0);
+    transform: translate(-50%, 0);
     z-index: 999;
 
 }
@@ -252,7 +252,7 @@
     border-radius: 50%;
     transform: translate(-50%, 0);
 
-    animation: circle 1.5s infinite cubic-bezier(0, 1.86, .92, -0.93);
+    animation: circle 1.5s infinite cubic-bezier(1, .18, .49, 1.03);
 
 }
 
